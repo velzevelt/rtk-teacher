@@ -22,7 +22,7 @@ html {
     margin-bottom: 30px;
 }
 
-#header a {
+#header-title {
     text-decoration: none;
 }
 
@@ -37,6 +37,11 @@ html {
 .header-nav a {
     text-decoration: none;
 }
+
+.header-nav a:hover {
+    text-decoration: underline;
+}
+
 
 
 .main {
