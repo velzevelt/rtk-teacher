@@ -1,21 +1,16 @@
 
 html {
-    background-color: #314c62ff;
+    background-color: #181a1b;
 }
 
 
 * {
-    color: rgb(177, 220, 255);
-
-    padding-top: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
-    margin-top: 15px;
-    margin-bottom: 30px;
+    color: #3391ff;
 }
 
 
 #header {
+    color: #3391ff;
     font-family: 'Josefin Sans';
     font-size: 33px;
     text-align: left;
@@ -26,6 +21,11 @@ html {
     margin-top: 15px;
     margin-bottom: 30px;
 }
+
+#header a {
+    text-decoration: none;
+}
+
 
 .header-nav {
     font-size: 0.65em;
@@ -40,19 +40,15 @@ html {
 
 
 .main {
-    display: flex;
-    justify-content: center;
-    font-family: 'Roboto';
-    font-size: 22px;
-    line-height: 120%;
-    
-    
     padding-top: 30px;
     padding-right: 15%;
     padding-left: 15%;
-
 }
 
 .main p {
-    color: rgb(220, 239, 255);
+    font-family: 'Roboto';
+    color: #dcefff;
+    line-height: 120%;
+    font-size: 22px;
+    margin-bottom: 30px;
 }
