@@ -35,36 +35,40 @@ html {
     padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    margin-top: 15px;
     margin-bottom: 30px;
 
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-
-
     position: sticky;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
     bottom: 0;
     right: 0;
     left: 0;
     top: 0;
 
+    height: 30%;
+    width: 100%;
+
+    background-color: rgba(0, 0, 0, 0.6);
 
 }
 
 #header-title {
     text-decoration: none;
     font-family: 'Josefin Sans';
+    display: inline-block;
 }
 
 
 .header-nav {
-    padding-top: 5px;
+    padding-right: 50px;
     font-size: 20px;
     line-height: 130%;
 
-    font-family: 'Oswald';
 
+    font-family: 'Oswald';
 }
 
 .header-nav a {
