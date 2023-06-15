@@ -8,7 +8,6 @@ html {
 
 #background {
     background-image: url('../assets/images/background-pattern.svg');
-    /* background-repeat: repeat; */
     width: 100%;
     height: 100%;
     position: absolute;
@@ -28,7 +27,6 @@ html {
 
 
 
-
 #header {
     color: #3391ff;
     font-size: 33px;
@@ -44,10 +42,13 @@ html {
     flex-wrap: wrap;
     justify-content: space-between;
 
-    /* position: fixed;
-    top: 0;
+
+    position: sticky;
+    bottom: 0;
+    right: 0;
     left: 0;
-    right: 0; */
+    top: 0;
+
 
 }
 
@@ -63,6 +64,7 @@ html {
     line-height: 130%;
 
     font-family: 'Oswald';
+
 }
 
 .header-nav a {
@@ -96,6 +98,14 @@ html {
     transform: scaleX(1);
 }
 
+.header-separator {
+    width: 100%;
+    height: 31px;
+    background-color: rgb(255,0,255);
+    margin-top: 15px;
+    margin-bottom: 30px;
+    float:left;
+}
 
 
 article {
