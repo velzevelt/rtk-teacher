@@ -7,6 +7,11 @@ html {
     color: #3391ff;
 }
 
+img {
+    pointer-events: none;
+}
+
+
 #background {
     background-image: url('../assets/images/background-pattern.svg');
     width: 100%;
@@ -41,6 +46,7 @@ html {
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
 
     bottom: 0;
@@ -64,9 +70,8 @@ html {
 .header-nav {
     font-size: 20px;
     line-height: 130%;
-
-
     font-family: 'Oswald';
+    margin-bottom: 5px;
 }
 
 .header-nav a {
@@ -137,6 +142,6 @@ h2 {
 .text-with-image {
     display: flex;
     justify-content: flex-start;
-    vertical-align: middle;
+    align-items: center;
     margin-bottom: 5px;
 }

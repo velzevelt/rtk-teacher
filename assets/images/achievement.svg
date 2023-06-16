@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.74564394"
-     inkscape:cx="36.880874"
-     inkscape:cy="285.65913"
+     inkscape:cx="47.609855"
+     inkscape:cy="290.35306"
      inkscape:window-width="1488"
-     inkscape:window-height="789"
-     inkscape:window-x="-32000"
-     inkscape:window-y="-32000"
+     inkscape:window-height="766"
+     inkscape:window-x="2083"
+     inkscape:window-y="114"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -108,7 +108,7 @@
     </g>
     <g
        id="g2210"
-       transform="matrix(1.2234675,0,0,1.2234675,-24.157701,-7.7545686)"
+       transform="matrix(1.2234675,0,0,1.2234675,-24.157701,-5.6379018)"
        style="stroke:#fffffa;stroke-width:0.817349;stroke-opacity:1">
       <path
          id="circle2206"
@@ -124,10 +124,10 @@
     </g>
     <g
        id="g2278"
-       transform="matrix(1.2234675,0,0,1.2234675,-24.157701,-7.7545686)"
+       transform="matrix(1.2234675,0,0,1.2234675,-24.157701,-5.6379018)"
        style="stroke:#fffffa;stroke-width:0.817349;stroke-opacity:1">
       <circle
-         style="fill:none;stroke:#fffffa;stroke-width:1.44262107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#fffffa;stroke-width:1.44262;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="circle2274"
          cx="75.107048"
          cy="53.049686"
